@@ -1,3 +1,3 @@
-## to run project:
-# > npm install
-# > gulp
+### to run project:
+> npm install
+> gulp
