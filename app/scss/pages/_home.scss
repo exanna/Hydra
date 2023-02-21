@@ -1,0 +1,11 @@
+body {
+	background-color: $bg-color;
+	font-family: $font-main;
+}
+
+.page {
+	box-sizing: border-box;
+	max-width: 1440px;
+	margin: 0 auto;
+	padding: 50px 80px;
+}
