@@ -1,0 +1,22 @@
+.main-navigation {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+
+	&__logo {
+		height: 100px;
+		flex: 2;
+	}
+
+	&__list {
+		display: flex;
+		justify-content: space-between;
+		flex: 4;
+	}
+
+	&__item {}
+
+	&__link {
+		color: $font-primary-color;
+	}
+}

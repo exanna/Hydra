@@ -5,3 +5,5 @@
 @mixin radialGradient($first-color, $second-color, $first-percentage: 0%, $second-percentage: 50%) {
 	background: radial-gradient($first-color $first-percentage, $second-color $second-percentage);
 }
+
+// define flex mixin
